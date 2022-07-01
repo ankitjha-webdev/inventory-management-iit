@@ -1,0 +1,39 @@
+{
+  "name": "inventory-management-iit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "nodemon" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitjha-webdev/inventory-management-iit.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "inventory-management-iit",
+    "inventory-management-iit-api",
+    "inventory-management-iit-api-server",
+    "inventory-management-iit-api-client",
+    "inventory-management-iit-api-client-node",
+    "inventory-management-iit-api-client-express",
+    "inventory-management-iit-api-client-react"
+  ],
+  "author": "Ankit Kumar Jha <",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitjha-webdev/inventory-management-iit/issues"
+  },
+  "homepage": "https://github.com/ankitjha-webdev/inventory-management-iit#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0",
+    "nodemon": "^2.0.18"
+  }
+}
