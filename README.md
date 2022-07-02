@@ -31,7 +31,7 @@
 
 - Clone this [repository](https://github.com/ankitjha-webdev/inventory-management-iit.git) to your local machine 
 - ```
-  git clone git@github.com:ankitjha-webdev/portfolio.git
+  https://github.com/ankitjha-webdev/inventory-management-iit.git
   ```
 
 - Navigate to `cd portfolio`  directory.
