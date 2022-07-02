@@ -1,5 +1,5 @@
 # Personal-Portfolio
-> This is personal portfolio website.
+> Inventory Management System for is a web application that allows you to manage your inventory. You can add, edit, delete, and search for products.  You can also view your inventory in a table format. 
 
 ![Portfolio]()
 
