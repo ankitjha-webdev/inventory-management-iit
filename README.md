@@ -6,7 +6,9 @@
 ## Built With
 
 - React
-- MaterialUi
+- TailwindCss
+- NodeJs
+- ExpressJs
 - CSS
 - VS code
 
