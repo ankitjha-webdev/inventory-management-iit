@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inventory-management-iit/static/css/main.5537b514.css",
+    "main.js": "/inventory-management-iit/static/js/main.960cd256.js",
+    "index.html": "/inventory-management-iit/index.html",
+    "main.5537b514.css.map": "/inventory-management-iit/static/css/main.5537b514.css.map",
+    "main.960cd256.js.map": "/inventory-management-iit/static/js/main.960cd256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5537b514.css",
+    "static/js/main.960cd256.js"
+  ]
+}
